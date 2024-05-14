@@ -18,7 +18,7 @@ PrestaShop: `1.7.8.0` or later
 ## Multistore compatibility
 
 This module is not compatible with the multistore :x: <br/>
-The module can only specify if block reasassurance is displayed from one shop to another but the configuration is common to all shops.
+The module can not specify if block reasassurance is displayed from one shop to another, and the configuration is common to all shops.
 
 ## Reporting issues
 
